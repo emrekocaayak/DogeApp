@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Doge</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş yap</string>
+    <string name="register">Kayıt ol</string>
+    <string name="post_communicate">İletişime Geç</string>
+    <string name="comm_note">Lütfen iletmek istediğin mesaj yaz. \n\nMerak etme iletişim bilgilerini senin yerine biz gönderiyoruz ☺️🤗</string>
+    <string name="comm_send">Gönder</string>
+    <string name="create_dogName">Köpek Adı</string>
+    <string name="create_dogRace">Köpek Cinsi</string>
+    <string name="create_note">Açıklama</string>
+    <string name="create_send">Ekle</string>
+    <string name="create_photo">Fotoğraf ekle</string>
+</resources>
